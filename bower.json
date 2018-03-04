@@ -13,12 +13,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "jquery": "^3.3.1",
-    "angular": "^1.6.9",
-    "angular-resource": "^1.6.9",
-    "angular-route": "^1.6.9",
-    "toastr": "^2.1.3"
-  }
+  ]
 }
